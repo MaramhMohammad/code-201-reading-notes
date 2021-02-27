@@ -1,13 +1,14 @@
 # HTML   
 ![html](https://p.kindpng.com/picc/s/23-237381_java-html-language-logo-png-transparent-png.png)
 
-## What is HTML?
+## What is [HTML](https://www.w3schools.com/)?
 
 - [x] HTML stands for Hyper Text Markup Language, it is the standard markup language for creating Web pages
 
 - [x] it's describes the structure of a Web page and consists of a series of elements
 
 - [x]  HTML elements tell the browser how to display the content, it's label pieces of content such as "this is a heading", "this is a paragraph"etc.
+
 
 A Simple HTML Document
 
@@ -39,7 +40,7 @@ A Simple HTML Document
 ### HTML5 
 The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
 
-To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.* ( [source](https://wtf.tw/ref/duckett.pdf) )
 
 ### Process & Design
 Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
@@ -63,7 +64,7 @@ Design is about communication. Visual hierarchy helps visitors understand what y
 
 - [x] JavaScript is easy to learn.
 
-A script is a series of instructions that the computercan follow in order to achieve a goal, Each time the script runs, it might only use a subset of all the instructions, Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
+A script is a series of instructions that the computercan follow in order to achieve a goal, Each time the script runs, it might only use a subset of all the instructions, Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.* ( [source](http://javascriptbook.com/) )
 
 
 ![JS](https://www.freecodecamp.org/news/content/images/2020/01/js-image.jpeg)
