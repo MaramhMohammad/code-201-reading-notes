@@ -61,6 +61,20 @@ This book is very good for beginners and can be used as a reference manual.
 Over the 519 pages you will learn HTML & CSS that will assist you in getting the job done with any website.
 
 
+## Fixed Width Layouts
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/fixd.PNG)
+
+## Liquid Layouts
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/liqid.PNG)
+
+
+## more examples
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/example.PNG)
+
+
 ##### SHORT SUMMARY OF LAYOUT 
 
 - <div> elements are often used as containing elements to group together sections of a page.
@@ -71,14 +85,4 @@ Over the 519 pages you will learn HTML & CSS that will assist you in getting the
 - Grids help create professional and flexible designs.
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page.
-
-
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture.PNG)
-
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/example.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/fixd.PNG)
-
-
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/liqid.PNG)
 
