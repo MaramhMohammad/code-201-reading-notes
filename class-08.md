@@ -9,9 +9,6 @@ its allows you to style and design the content on your page
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/layout.PNG)
 
 
-
-![css](https://i.pinimg.com/564x/e0/a9/90/e0a990f0d96635b283f2849e823de106.jpg)
-
 The very first book which you should prefer in learning is HTML and CSS: Design and build websites by Jon Duckett.
 
 
@@ -40,6 +37,16 @@ CSS has the following positioning schemes that allow you to control the layout o
 property in CSS. You can also float elements using the float property.
 
 
+
+
+Essentially, if you are new to web development, or you are a Javascript developer who wants to have a better understanding of HTML & CSS — you should definitely read this book. 
+This book is very good for beginners and can be used as a reference manual.
+Over the 519 pages you will learn HTML & CSS that will assist you in getting the job done with any website.
+
+https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
+
+##### SHORT SUMMARY OF LAYOUT 
+
 - <div> elements are often used as containing elements to group together sections of a page.
 - Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning.
 - The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
@@ -48,12 +55,6 @@ property in CSS. You can also float elements using the float property.
 - Grids help create professional and flexible designs.
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page.
-
-Essentially, if you are new to web development, or you are a Javascript developer who wants to have a better understanding of HTML & CSS — you should definitely read this book. 
-This book is very good for beginners and can be used as a reference manual.
-Over the 519 pages you will learn HTML & CSS that will assist you in getting the job done with any website.
-
-https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
 
 
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture.PNG)
@@ -70,5 +71,5 @@ https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/relative pos.PNG)
 
 
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/rslt.PNG)
 
