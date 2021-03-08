@@ -36,14 +36,30 @@ the main navigation). The <div> element that contains this group of elements is 
 CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position
 property in CSS. You can also float elements using the float property.
 
+### Normal flow 
+
+The paragraphs appear one after the other, vertically down the page.
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/normalflow.PNG)
 
 
+### Relative Positioning
+
+The second paragraph has been pushed down and right from where it would otherwise have been in normal flow.
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/relativepos.PNG)
+
+
+### Absolute positioning
+
+The heading is positioned to the top right, and the paragraphs start at the top of the screen (as if the heading were not there).
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/ab.PNG)
 
 Essentially, if you are new to web development, or you are a Javascript developer who wants to have a better understanding of HTML & CSS — you should definitely read this book. 
 This book is very good for beginners and can be used as a reference manual.
 Over the 519 pages you will learn HTML & CSS that will assist you in getting the job done with any website.
 
-https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
 
 ##### SHORT SUMMARY OF LAYOUT 
 
@@ -58,18 +74,11 @@ https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
 
 
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/ab.PNG)
+
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/css.PNG)
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/example.PNG)
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/fixd.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/html.PNG)
 
 
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/liqid.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/normal flow.PNG)
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/relative pos.PNG)
-
-
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/rslt.PNG)
 
