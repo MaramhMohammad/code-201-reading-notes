@@ -1,6 +1,5 @@
 # Layout! 
 
-![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
  
 As we mentioned before in my [reading notes repo](https://github.com/MaramhMohammad/code-201-reading-notes/blob/main/class-04.md) about the **CSS Layout** and As we know about the CSS,
 its allows you to style and design the content on your page 
@@ -71,4 +70,5 @@ https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
 ![im](https://maramhmohammad.github.io/code-201-reading-notes/img/relative pos.PNG)
 
 
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
 
