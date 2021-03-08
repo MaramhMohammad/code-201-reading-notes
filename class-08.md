@@ -1,9 +1,14 @@
 # Layout! 
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
  
 As we mentioned before in my [reading notes repo](https://github.com/MaramhMohammad/code-201-reading-notes/blob/main/class-04.md) about the **CSS Layout** and As we know about the CSS,
 its allows you to style and design the content on your page 
 
 ### let's get deep throat this topic!
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/layout.PNG)
+
 
 
 ![css](https://i.pinimg.com/564x/e0/a9/90/e0a990f0d96635b283f2849e823de106.jpg)
@@ -50,5 +55,20 @@ This book is very good for beginners and can be used as a reference manual.
 Over the 519 pages you will learn HTML & CSS that will assist you in getting the job done with any website.
 
 https://miro.medium.com/max/430/1*8hk2qU-UfoIpHCg-yXZZWA.jpeg
+
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/ab.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/Capture1.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/css.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/example.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/fixd.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/html.PNG)
+
+
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/liqid.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/normal flow.PNG)
+![im](https://maramhmohammad.github.io/code-201-reading-notes/img/relative pos.PNG)
+
 
 
