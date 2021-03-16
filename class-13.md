@@ -1,42 +1,7 @@
 # [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](https://diveinto.html5doctor.com/storage.html)
-
-## New research reveals surprising truths about why some work groups thrive and others falter.
-Persistent local storage is one of the areas where native client applications have held an advantage over web applications. For native applications, the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state. These values may be stored in the registry, INI files, XML files, or some other place according to platform convention. If your native client application needs local storage beyond key/value pairs, you can embed your own database, invent your own file format, or any number of other solutions.
-
-- Working in teams can produce a wide range of results. It's up to us how we approach the team, and we contribute.
-Historically, web applications have had none of these luxuries. Cookies were invented early in the web’s history, and indeed they can be used for persistent local storage of small amounts of data. But they have three potentially dealbreaking downsides:
-
-- In 2015, Google launched Project Aristotle - to study hundreds of Google’s teams and figure out why some stumbled while others soared. 
-- Cookies are included with every HTTP request, thereby slowing down your web application by needlessly transmitting the same data over and over
-- Cookies are included with every HTTP request, thereby sending data unencrypted over the internet (unless your entire web application is served over SSL)
-- Cookies are limited to about 4 KB of data — enough to slow down your application (see above), but not enough to be terribly useful
-
-### Project Aristotle:
-What we really want is
-
-  - Reviewing a half-century of academic studies looking at how teams worked.
-  - Were the best teams made up of people with similar interests?
-  - Did it matter more whether everyone was motivated by the same kinds of rewards? 
-  - How often did teammates socialize outside the office? 
-  - Did they have the same hobbies? 
-  - Were their educational backgrounds similar? 
-  - Was it better for all teammates to be outgoing or for all of them to be shy? 
-  - They drew diagrams showing which teams had overlapping memberships and which groups had exceeded their departments’ goals. 
-  - They studied how long teams stuck together and if gender balance seemed to have an impact on a team’s success.
-  - Results were inclusive:
-- A lot of storage space
-- On the client
-- that persists beyond a page refresh
-- and isn’t transmitted to the server
-
-    - Some groups that were ranked among Google’s most effective teams, for instance, were composed of friends who socialized outside work. 
-    - Others were made up of people who were basically strangers away from the conference room. 
-    - Some groups sought strong managers. 
-    - Others preferred a less hierarchical structure. 
-    - Most confounding of all, two teams might have nearly identical makeups, with overlapping memberships, but radically different levels of effectiveness. 
 ## A BRIEF HISTORY OF LOCAL STORAGE HACKS BEFORE HTML5
 
-### Group Norms
+
 In the beginning, there was Internet Explorer. which included DHTML Behaviors, and one of these behaviors was called userData.
 
   - Research was noted by psychologists and sociologists that focused on what are known as ‘‘group norms.’’ 
